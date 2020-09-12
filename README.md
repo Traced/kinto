@@ -7,6 +7,8 @@
 
 https://bold-snow-e762.2020800023.workers.dev
 
+https://kinto-c85449.asia1.kinto.io/
+
 ### 部署服务端
 1. 点开 https://app.kintohub.com/ 新建一个APP，点击 Create Service ,然后创建 Web App 如图：
 
